@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://musembi.kei1110.co.ke/webmaps/terrorist-storymap/
+- Leaflet Map https://kengeospatialist.github.io/terrorist-attack-storymap/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1gfVnYjUaH_D1u7pzzKDRuSrM2y0a2TpvsupMEQFvuow/edit#gid=0
 
 ## Create Your Own
